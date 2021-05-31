@@ -1,0 +1,39 @@
+Konya Bursa Ankara
+A1 B1 C1 A2 B2 C2
+6
+reserve_seat Ebru Konya A1 2
+reserve_seat Isam Bursa B1 3
+reserve_seat Utku Ankara C1 4
+reserve_seat Mutaz Konya A2 5
+reserve_seat Abdullah Konya B2 2
+reserve_seat Bahtiyar Bursa C2 3
+reserve_seat_by_row Abdullah A1
+reserve_seat_by_row Adam B1
+reserve_seat_by_row Bahtiyar C1
+reserve_seat_by_row Baki A2
+reserve_seat_by_row Cansu B2
+reserve_seat_by_row Canan C2
+cancel_reservation Isam 
+cancel_reservation Abdullah 
+cancel_reservation Adam 
+cancel_reservation Abdullah 
+cancel_reservation Mutaz 
+cancel_reservation Bahtiyar 
+reserve_seat Cansu Ankara A1 4
+reserve_seat Damla Konya B1 5
+reserve_seat Abidin Konya C1 2
+reserve_seat Bahar Bursa A2 3
+reserve_seat Demir Ankara B2 4
+reserve_seat_by_row Erdem A1
+reserve_seat_by_row Emre B1
+reserve_seat_by_row Engin C1
+reserve_seat_by_row Enis A2
+reserve_seat_by_row Emine B2
+reserve_seat_by_row Emel C2
+cancel_reservation Cansu 
+cancel_reservation Damla 
+cancel_reservation Abidin 
+cancel_reservation Emel 
+cancel_reservation Emre 
+cancel_reservation Enis 
+print

@@ -1,0 +1,26 @@
+Konya Bursa Ankara
+A1 B1 C1 A2 B2 C2
+6
+reserve_seat_by_row Tahsin A1
+reserve_seat Ahmet Konya A1 0
+reserve_seat Kamer Bursa A1 1
+reserve_seat Cemal Ankara A1 2
+reserve_seat_by_row Samir A2
+reserve_seat_by_row Nazir B1
+reserve_seat_by_row Mehmet B2
+reserve_seat_by_row Isam C1
+reserve_seat_by_row Taha C2
+cancel_reservation Ahmet
+cancel_reservation Ahmet
+cancel_reservation Kamer
+cancel_reservation Kamer
+reserve_seat Elif Konya B1 2
+reserve_seat Reyyan Bursa B1 3
+reserve_seat Fatih Ankara C1 2
+cancel_reservation Mehmet
+cancel_reservation Mehmet
+cancel_reservation Reyyan
+cancel_reservation Reyyan
+reserve_seat Selim Konya A2 1
+reserve_seat Banu Bursa A2 2
+print

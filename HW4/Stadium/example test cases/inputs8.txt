@@ -1,0 +1,49 @@
+Konya Bursa Ankara
+A1 B1 C1 A2 B2 C2
+6
+reserve_seat_by_row Isam A1
+reserve_seat_by_row Banu B1
+reserve_seat_by_row Utku C1
+reserve_seat_by_row Suad A2
+reserve_seat_by_row Mutaz B2
+reserve_seat_by_row Fatma C2
+reserve_seat_by_row Abdullah A1
+reserve_seat_by_row Adam B1
+reserve_seat_by_row Bahtiyar C1
+reserve_seat_by_row Baki A2
+reserve_seat_by_row Cansu B2
+reserve_seat_by_row Canan C2
+reserve_seat_by_row Damla A1
+reserve_seat_by_row Defne B1
+reserve_seat_by_row Abidin C1
+reserve_seat_by_row Cabbar A2
+reserve_seat_by_row Bahar B2
+reserve_seat_by_row Demir C2
+cancel_reservation Isam
+cancel_reservation Utku
+cancel_reservation Mutaz
+cancel_reservation Abdullah
+cancel_reservation Bahtiyar
+cancel_reservation Cansu
+cancel_reservation Damla
+cancel_reservation Abidin
+cancel_reservation Bahar
+cancel_reservation Demir
+reserve_seat Ebru Konya A1 2
+reserve_seat Isam Bursa B1 3
+reserve_seat Utku Ankara C1 4
+reserve_seat Mutaz Konya A2 5
+reserve_seat Abdullah Konya B2 2
+reserve_seat Bahtiyar Bursa C2 3
+reserve_seat Cansu Ankara A1 4
+reserve_seat Damla Konya B1 5
+reserve_seat Abidin Konya C1 2
+reserve_seat Bahar Bursa A2 3
+reserve_seat Demir Ankara B2 4
+get_seat Banu 
+get_seat Suad 
+get_seat Adam 
+get_seat Cabbar 
+get_seat Damla 
+get_seat Bahtiyar 
+print
